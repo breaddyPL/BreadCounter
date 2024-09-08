@@ -1,0 +1,48 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Helvetica;
+}
+#btnContainer{
+    text-align: center;
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: hsl(290, 52%, 37%);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: 
+    hsl(290, 37%, 25%);
+}
+h1{
+    text-align: center;
+    font-family: Helvetica;
+    color: purple;
+}
+html {
+    background-color: white;
+}
+
+#githubBtn{
+    background-color: grey;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.35s;
+    display: block;
+    margin: auto;
+    font-size: 1.5em;
+    font-family: Helvetica;
+    border-radius: 5px;
+}
+
+#githubBtn:hover{
+    background-color:
+    hsl(0, 0%, 27%);
+}
